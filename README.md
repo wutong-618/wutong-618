@@ -1,4 +1,4 @@
-# Hi, I am wutong-618
+# Hi, I am wutong
 
 I focus on multi-view clustering, low-rank tensor learning, graph fusion, and auto-weighted representation learning. My repositories mainly provide reproducible implementations for clustering algorithms built on tensor representation, subspace learning, Laplacian manifold regularization, and multi-graph fusion.
 
